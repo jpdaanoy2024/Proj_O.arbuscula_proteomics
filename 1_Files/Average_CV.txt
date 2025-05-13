@@ -1,0 +1,2 @@
+Dataset	Average CV
+1	Proteomics	7.95203613748508
